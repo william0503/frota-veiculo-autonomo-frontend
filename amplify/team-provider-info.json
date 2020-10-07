@@ -1,15 +1,15 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-melevaai-dev-175424-authRole",
-            "UnauthRoleArn": "arn:aws:iam::316864816889:role/amplify-melevaai-dev-175424-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::316864816889:role/amplify-melevaai-dev-175424-authRole",
+            "AuthRoleName": "amplify-melevaai-dev-204356-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191206955190:role/amplify-melevaai-dev-204356-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191206955190:role/amplify-melevaai-dev-204356-authRole",
             "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-melevaai-dev-175424-deployment",
-            "UnauthRoleName": "amplify-melevaai-dev-175424-unauthRole",
-            "StackName": "amplify-melevaai-dev-175424",
-            "StackId": "arn:aws:cloudformation:us-east-1:316864816889:stack/amplify-melevaai-dev-175424/f4a0a610-074c-11eb-ba10-0e1cfc6fd327",
-            "AmplifyAppId": "d2tsgid712kt6l"
+            "DeploymentBucketName": "amplify-melevaai-dev-204356-deployment",
+            "UnauthRoleName": "amplify-melevaai-dev-204356-unauthRole",
+            "StackName": "amplify-melevaai-dev-204356",
+            "StackId": "arn:aws:cloudformation:us-east-1:191206955190:stack/amplify-melevaai-dev-204356/f80bc4f0-08f6-11eb-b18c-1217092af407",
+            "AmplifyAppId": "d19pw2yb8ayuh"
         }
     }
 }
